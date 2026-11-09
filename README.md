@@ -2,10 +2,10 @@
 Philippines CO2 Emissions Analysis 1990-2024
 # CO₂ Emissions Analysis: Philippines (1990–2024)
 
-**Student:** [Enter your full name]  
+**Student:** Rey V. Amas  
 **Country / ISO-3:** Philippines / PHL  
 **Study period:** 1990–2024  
-**Declared to instructor on:** [Enter declaration date]
+**Declared to instructor on:** Nov. 09, 2026
 
 ## 1. Research Question
 
